@@ -21,7 +21,8 @@
 title: Royans Tharakan
 email: < sorry >
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal experimental blog.
+  This is a personal blog, and reflects my personal opinion only.
+  And as a disclaimer, I do work for Google, and my personal opinion may have unintentional biases as well.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://royans.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: royans
