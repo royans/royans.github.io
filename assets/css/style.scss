@@ -2,8 +2,6 @@
 ---
 @import "{{ site.theme }}";
 
-
-
 .post-content h2{ font-size:28px }
 @media screen and (max-width: 800px){ .post-content h2{ font-size:24px } }
 .post-content h3{ font-size:24px }
