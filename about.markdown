@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I've maintained a personal blog of some kind for 20 years. I was never a fan of writing, but it was a way to express ideas and document personal opinions.
+Over time, my opionions and ideas have changed, but not much. And every now and then, I do a little cleanup and start fresh. In 2024, I'm starting again with this site.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+### Links
+* [LinkedIn](https://www.linkedin.com/in/royans/)
+* [Threads](https://www.threads.net/@r0yans)
+* [Instagram](https://www.instagram.com/r0yans/)
