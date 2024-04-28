@@ -6,9 +6,9 @@ categories: security 0trust
 ---
 # Explaining Zero-Trust to a 5 year old
 While reading a CISA advisory, I realized that one of the common ransomware attack patterns involves compromising an edge network device to gain access to a private internal network. Once an attacker gets in, it gets significantly easier to compromise the remaining devices on the network. 
-> Post-compromise, the actors moved laterally into domain environments and have been observed leveraging tools that are native to the Ivanti appliances—such as freerdp, ssh, telnet, and nmap libraries—to expand their access to the domain environment. The result, in some cases, was a full domain compromise.
-This is one of the reasons why many large organizations, like Google, abandoned use of VPNs in favor of Zero-Trust design principle.
-If you don't know what Zero-Trust is, and how its different from VPNs, let me give you two easy examples.
+
+> Post-compromise, the actors moved laterally into domain environments and have been observed leveraging tools that are native to the Ivanti appliances—such as freerdp, ssh, telnet, and nmap libraries—to expand their access to the domain environment. The result, in some cases, was a full domain compromise. This is one of the reasons why many large organizations, like Google, abandoned use of VPNs in favor of Zero-Trust design principle. If you don't know what Zero-Trust is, and how its different from VPNs, let me give you two easy examples.
+
 ### Explaining Zero-Trust to a 5 year old
 * VPN is like the house you live in. You can leave your toys in any room without having to worry about whether it would be there the next day or not.
 * Zero-Trust is what you feel at an airport. You would never leave your toys unattended even for a minute. You assume that every person is a stranger and you will share your toys only with those you really know.
