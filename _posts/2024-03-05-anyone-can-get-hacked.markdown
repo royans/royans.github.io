@@ -4,7 +4,6 @@ title:  "Anyone can get hacked"
 date:   2024-03-24 03:53:19 +0000
 categories: security 0trust  
 ---
-# Anyone can get hacked
 
 A long time ago (before Chrome/Chromebooks) I used to own a cutting-edge Dell Windows laptop (with all the bells and whistles), with all the monthly security patches, the best antivirus and a good software firewall. I even had a SANS GIAC security certification, so knew a bit about security.
 I still got hacked. Not once, but twice in a single month.
