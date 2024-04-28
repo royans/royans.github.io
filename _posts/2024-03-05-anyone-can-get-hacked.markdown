@@ -4,14 +4,13 @@ title:  "Anyone can get hacked"
 date:   2024-03-24 03:53:19 +0000
 categories: security 0trust  
 ---
-
 A long time ago (before Chrome/Chromebooks) I used to own a cutting-edge Dell Windows laptop (with all the bells and whistles), with all the monthly security patches, the best antivirus and a good software firewall. I even had a SANS GIAC security certification, so knew a bit about security.
 I still got hacked. Not once, but twice in a single month.
 
-## The Mystery
+### The Mystery
 The first time I got hacked, I was browsing news websites with my morning coffee. I knew something happened to my device by the screen flicker I saw (as if some process started and then closed the window). I immediately stopped what I was doing and scanned it using the Antivirus. It didn't find anything, but I didn't want to take risks and rebuilt the device anyway. Please note that rebuilding a Windows laptop from scratch is a fun week-long project :)
 The second time it happened, it felt like Deja-vu. Interestingly I was on the same exact Indian news website as the previous time. This time I decided to clone the disk (made a read-only copy for forensics) and spent the next week looking for any evidence of the hack.
-## The Evidence
+### The Evidence
 After few hours of forensics, I found out that two things happened before I closed my laptop 
 * I was served a Java applet as part of an advertisement 
 * And that downloaded and installed something else (windows executable) on my device.
@@ -21,7 +20,7 @@ In an order to recreate this issue, I tried visiting that news website from a Vi
 And a few days later the news did come out that there was a 0-day Java bug going around and a patch was made available. 
 The funny part is that, I was never a big fan of Java applets and after this incident I did turn it off completely to avoid a repeat. I wish it was off by default.
 
-## The Education
+### The Education
 While that was a very frustrating month for me, I did learn few important lessons which can never be taught using textbooks :)
 * "Bells and whistles" won't protect you.
 * Running the latest OS or having all security patches is never enough
@@ -31,7 +30,7 @@ While that was a very frustrating month for me, I did learn few important lesson
 * I was very lucky that I knew the moment I was compromised. [Others may not be as lucky]
 * And I was lucky that I knew what to do after compromise. [Others may not know].
 
-## You can control the outcome
+### You can control the outcome
 Everyone will get hacked at some point in some way. But you have two things in your control
 * You can control how easy you want to make it for your attacker
 * And you can control how you respond after you get compromised. 
@@ -40,7 +39,7 @@ The 100K users mentioned in these reports below got hacked and that their creden
 [Over 225000 compromized ChatGPT clients](https://thehackernews.com/2024/03/over-225000-compromised-chatgpt.html)
 [Over 100000 stolen ChatGPT accounts](https://thehackernews.com/2023/06/over-100000-stolen-chatgpt-account.html)
 
-## Chromebooks
+### Chromebooks
 I have been fascinated with Chromebooks since they came out. But its my past experience with malware which makes me still use it as my default laptop today. 
 Here are some of the noteworthy security features you should be proud of when you use a Chromebook. 
 * This device was built from the ground-up with security in mind. 

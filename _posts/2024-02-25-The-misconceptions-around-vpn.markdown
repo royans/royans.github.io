@@ -4,7 +4,6 @@ title:  "The misconceptions around VPN"
 date:   2024-02-25 21:53:19 +0000
 categories: vpn security
 ---
-# The misconceptions around VPN
 There is a misconception that VPNs have magical powers to protect you. Read on to understand what VPNs actually do, what they don't tell you and the risks you may be taking when you use them.
 
 ## What are VPNs good for
