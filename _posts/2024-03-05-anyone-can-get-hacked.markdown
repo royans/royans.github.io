@@ -34,10 +34,10 @@ While that was a very frustrating month for me, I did learn few important lesson
 Everyone will get hacked at some point in some way. But you have two things in your control
 * You can control how easy you want to make it for your attacker
 * And you can control how you respond after you get compromised. 
-The 100K users mentioned in these reports below got hacked and that their credentials are now up for sale. I suspect some of them could have avoided it if they had reduced their attack surface area.
 
-[Over 225000 compromized ChatGPT clients](https://thehackernews.com/2024/03/over-225000-compromised-chatgpt.html)
-[Over 100000 stolen ChatGPT accounts](https://thehackernews.com/2023/06/over-100000-stolen-chatgpt-account.html)
+The 100K users mentioned in these reports below got hacked and that their credentials are now up for sale. I suspect some of them could have avoided it if they had reduced their attack surface area.
+* [Over 225000 compromized ChatGPT clients](https://thehackernews.com/2024/03/over-225000-compromised-chatgpt.html)
+* [Over 100000 stolen ChatGPT accounts](https://thehackernews.com/2023/06/over-100000-stolen-chatgpt-account.html)
 
 ### Chromebooks
 I have been fascinated with Chromebooks since they came out. But its my past experience with malware which makes me still use it as my default laptop today. 
