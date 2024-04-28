@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Generative AI related work
-permalink: /genai/
+title: Recent work
+permalink: /recent/
 ---
 
 * [Shopping list assistant](https://docs.google.com/spreadsheets/d/173-jcwgE4IjnOQWvbizL96IcoFhekU1Uj6dQKPoLX6M/edit) - Using Google Sheet & Gemini to smartly reorder the list.
