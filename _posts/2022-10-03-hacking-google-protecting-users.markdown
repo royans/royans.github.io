@@ -11,11 +11,10 @@ The series starts with the background of how Google was attacked by China in its
 
 There are a total of six episodes in total and all of them are attached below for easy access.
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=przDcQe6n5o&list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/przDcQe6n5o?si=ro9okYG6yJhQ9Y52" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The second episode goes deeper into the “TAG” team (Thread analysis group) which tracks and identifies all external threats and documents how to avoid/protect against them.
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=N7N4EC20-cM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N7N4EC20-cM?si=EB2lwcCsTHIeLhn6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 Third episode gives an insight into how teams detect and respond to security threats.
