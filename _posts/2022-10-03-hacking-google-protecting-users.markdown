@@ -18,16 +18,15 @@ The second episode goes deeper into the “TAG” team (Thread analysis group) w
 
 
 Third episode gives an insight into how teams detect and respond to security threats.
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=QZ0cpBocl3c" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QZ0cpBocl3c?si=MLyUmnjAbB0zQjmL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The fourth episode talks about the “Red team” which is constantly trying to break things from within. They are the whitehat hackers trying to find vulnerabilities before the blackhats find it.
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=TusQWn2TQxQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TusQWn2TQxQ?si=9jUMe8Oc0tdHiAGB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Google is one of the few companies which takes so much pride in its work around security, that it pays handsomely for bugs found by the public. There is a leaderboard for this as well.
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=IoXiXlCNoXg" frameborder="0" allowfullscreen></iframe>
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=My_13FXODdU" frameborder="0" allowfullscreen></iframe>
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=dhdz5VZ4S88" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IoXiXlCNoXg?si=VCJeHVykbKPOHGJL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/My_13FXODdU?si=ShPlH6tyrRRFMYd2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dhdz5VZ4S88?si=LFm5vjDY4osD-2ty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
