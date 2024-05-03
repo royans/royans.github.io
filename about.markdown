@@ -11,3 +11,4 @@ Over time, my opionions and ideas have changed, but not much. And every now and 
 * [LinkedIn](https://www.linkedin.com/in/royans/)
 * [Threads](https://www.threads.net/@r0yans)
 * [Instagram](https://www.instagram.com/r0yans/)
+* [Substack](https://securedevice.substack.com/)
