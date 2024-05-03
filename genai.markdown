@@ -4,7 +4,7 @@ title: Recent work
 permalink: /recent/
 ---
 
-* [Security News Substack](https://securedevice.substack.com/) - Summarizing top news using Gemini
+* [Security News Substack](https://securedevice.substack.com/) - Summarizing top Security related news using Gemini.
 * [Shopping list assistant](https://docs.google.com/spreadsheets/d/173-jcwgE4IjnOQWvbizL96IcoFhekU1Uj6dQKPoLX6M/edit) - Using Google Sheet & Gemini to smartly reorder the list.
 * [gbash](https://github.com/royans/gbash/) - GenAI based linux shell converts natural language to shell commands.
 * [Gemini gsheet function](https://docs.google.com/spreadsheets/d/1UidV-f4tIojGhzNlmJz0Y_Dj9P95cUUM2999WjSlKoA/edit#gid=0) - Google Sheet with gemini magic
