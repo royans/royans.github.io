@@ -23,7 +23,7 @@ title: Royans Tharakan
   #name: Royans
   #email: 
 #email: email
-description: This is a personal blog, been running this for over 25 years and it reflects my personal opinion only. As a disclaimer, I currently work for Google, and my personal opinions may at times have unintentional biases as well. I promise, I'm human.
+description: This is a personal blog, been running this for over 20 years and it reflects my personal opinion only. As a disclaimer, I currently work for Google, and my personal opinions may at times have unintentional biases as well. I promise, I'm human.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://royans.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: royans
