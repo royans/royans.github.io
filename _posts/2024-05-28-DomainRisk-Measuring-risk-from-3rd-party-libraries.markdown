@@ -10,8 +10,8 @@ Using third-party libraries is considered a smart decision not only because its 
 * **Typosquating or Masquerading**: Impersonation could happen either by typosquating the package name or the website where its hosted on. For example its relatively simple to create similar looking instances of popular github packages and figuring out which to use may not always be obvious. Jfrog has some great examples [here](https://jfrog.com/blog/developers-under-attack-leveraging-typosquatting-for-crypto-mining/) and [here](https://jfrog.com/blog/malware-civil-war-malicious-npm-packages-targeting-malware-authors/). But the best example of this type of attack is [this one](https://jfrog.com/blog/python-wheel-jacking-in-supply-chain-attacks/) where they document how a developer was used the malicious packages because the package manager was not prepared to handle a package naming conflict.
 * **Compromizing the vendor**: The attempt to install [backdoor in XZ](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/microsoft-faq-and-guidance-for-xz-utils-backdoor/ba-p/4101961) may have been caught in time, but it highlighted the glaring hole in our assumptions that open source is immune supply chain attacks.
 * **Compromizing the hosting provider**: Many web developers choose to use vendor's CDN to host their libraries for two reasons. 
-** The library vendor may have a better CDN infrastructure. This could significantly reduce the delivery latency.
-** The vendor can directly control the code revisions which allows rapid updates to address security/quality/performance bugs.
+    * The library vendor may have a better CDN infrastructure. This could significantly reduce the delivery latency.
+    * The vendor can directly control the code revisions which allows rapid updates to address security/quality/performance bugs.
 
 ### Recommendations
 While a developer cannot address all the risks, there are two specific recommendations which can dramatically reduce the attack vectors on the website.
