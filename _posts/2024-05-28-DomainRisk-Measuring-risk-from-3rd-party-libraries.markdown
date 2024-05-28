@@ -29,6 +29,5 @@ I had DomainRisk run against the top 1000 websites by traffic to get a sense of 
 * 90th percentile had 26 domains mentioned
 * 99th percentile had 69 domains mentioned
 * However, I found 3 which had over 100
-* And I found at least 1 domain which had a high number of domains mentioned because it was potentially misconfigured. I've reported the issue to the website owner to take action.
 
 
