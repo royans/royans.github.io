@@ -24,12 +24,4 @@ If you are curiuos what your website is using, I recommend you checkout [DomainR
 * If you are showing Ads, or generating Analytics, or using a CSS beautifucation library, its normal to have those libraries listed
 * But after reviewing most of the top 1000 websites on the internet today, its clear that most sites use less than 10 unique hostnames.
 
-### Data 
-I had DomainRisk run against the top 1000 websites by traffic to get a sense of what is normal today and here is what I found
-* The average number of domains mentioned in the script tag: 11
-* The median number of domains mentioned in the script tag: 7
-* 90th percentile had 26 domains mentioned
-* 99th percentile had 69 domains mentioned
-* However, I found 3 which had over 100
-
 
