@@ -4,7 +4,7 @@ title: Recent work
 permalink: /recent/
 ---
 
-* [DomainRisk](https://github.com/royans/domainrisk) - A tool to do bulk inference to identify 3rd party javascript library dependency across sites.
+* [DomainRisk](https://github.com/royans/domainrisk) - Tool for bulk anslysis: Identify 3rd party javascript library dependency across web.
 * [Security News Substack](https://securedevice.substack.com/) - Summarizing top Security related news using Gemini.
 * [Shopping list assistant](https://docs.google.com/spreadsheets/d/173-jcwgE4IjnOQWvbizL96IcoFhekU1Uj6dQKPoLX6M/edit) - Using Google Sheet & Gemini to smartly reorder the list.
 * [gbash](https://github.com/royans/gbash/) - GenAI based linux shell converts natural language to shell commands.
