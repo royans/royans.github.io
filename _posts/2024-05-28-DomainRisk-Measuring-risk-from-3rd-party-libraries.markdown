@@ -26,7 +26,7 @@ If you are curiuos what your website is using, I recommend you checkout [DomainR
 * But after reviewing most of the top 1000 websites on the internet today, its clear that most sites use less than 10 unique hostnames.
 
 ### Data
-Based on a quick scan of the top sites, here is the distribution of hosts being called from the script tag in the hosts I scanned in the last hour.
+Based on a quick scan of the top sites, here is the distribution of hosts being called from the script tag in the hosts I scanned in the last hour. The host, cdn.polyfill.io, interestingly was being used by 0.5% of all websites I sampled today. Each of these sites are potential targets for malicious actors since a single compromise can lead to a large number of victims quickly.  
 <pre>
 +--------------------------------+---------+
 | hostname                       |    %    |
