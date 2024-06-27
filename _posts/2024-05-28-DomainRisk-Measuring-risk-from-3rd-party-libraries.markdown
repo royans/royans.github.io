@@ -30,6 +30,8 @@ If you are curiuos what your website is using, I recommend you checkout [DomainR
 Based on a quick scan of the top sites, here is the distribution of hosts being called from the script tag in the hosts I scanned in the last hour.
 <pre>
 +--------------------------------+---------+
+| hostname                       |    %    |
++--------------------------------+---------+
 | www.googletagmanager.com       | 39.2636 |
 | cdnjs.cloudflare.com           | 12.1817 |
 | ajax.googleapis.com            | 11.5691 |
