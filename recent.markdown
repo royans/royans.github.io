@@ -4,7 +4,7 @@ title: Recent work
 permalink: /recent/
 ---
 
-* [Flagthis](https://www.flagthis.com) - Internet Security News aggregator - summarizes and sorts them by importance and impact.
+* [Flagthis](https://www.flagthis.com) - Internet Security News aggregator - summarizes and sorts by importance and impact.
 * [DomainRisk](https://github.com/royans/domainrisk) - Tool for bulk anslysis: Identify 3rd party javascript library dependency across web.
 * [Security News Substack](https://securedevice.substack.com/) - Summarizing top Security related news using Gemini.
 * [Shopping list assistant](https://docs.google.com/spreadsheets/d/173-jcwgE4IjnOQWvbizL96IcoFhekU1Uj6dQKPoLX6M/edit) - Using Google Sheet & Gemini to smartly reorder the list.
