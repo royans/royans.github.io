@@ -9,6 +9,7 @@ Over time, my opionions and ideas have changed, but not much. And every now and 
 
 ### Links
 * [LinkedIn](https://www.linkedin.com/in/royans/)
+* [BlueSky](https://bsky.app/profile/royans.bsky.social)
 * [Threads](https://www.threads.net/@r0yans)
 * [Instagram](https://www.instagram.com/r0yans/)
 * [Substack](https://securedevice.substack.com/)
