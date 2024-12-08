@@ -27,7 +27,7 @@ I have a server [blogofy.com](https://www.blogofy.com/) which hosts some of the 
 * [https://www.blogofy.com/export/2024-financial-report.txt](https://www.blogofy.com/confidential/2024-financial-report.txt) -  /confidential/2024-financial-report.txt
 * [https://www.blogofy.com/export/corporate-background.txt](https://www.blogofy.com/confidential/corporate-background.txt) -  /confidential/corporate-background.txt
 * [https://www.blogofy.com/../../../etc/passwd](https://www.blogofy.com/../../../etc/passwd) - /etc/passwd
-* [https://www.blogofy.com/../../../etc/shawdow](https://www.blogofy.com/../../../etc/shawdow) -  /etc/shadow
+* [https://www.blogofy.com/../../../etc/shadow](https://www.blogofy.com/../../../etc/shadow) -  /etc/shadow
 * [https://www.blogofy.com/../../home/raj/.profile](https://www.blogofy.com/../../home/raj/.profile) - ~/.profile
 * [https://www.blogofy.com/../etc/sshd/sshd.conf](https://www.blogofy.com/../etc/sshd/sshd.conf) -  /etc/sshd/sshd.conf
 * [https://www.blogofy.com/../etc/apache/httpd.conf](https://www.blogofy.com/../etc/apache/httpd.conf) -  /etc/apache/httpd.conf
