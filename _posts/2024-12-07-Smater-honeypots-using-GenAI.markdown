@@ -17,7 +17,7 @@ Before the advent of GenAI, all of these customizations had to be done by hand. 
 I have a server [blogofy.com](https://www.blogofy.com/) which hosts some of the javascript based games my kids created over the last few months. But what is not easily visible is that this server also hosts a Gemini based honeypot which will happily give you any file you are looking for. Its very hacky at the moment, but as a proof of concept this is decent enough. Here are some concrete examples.
 
 * [https://www.blogofy.com/export/2024-financial-report.txt](https://www.blogofy.com/confidential/2024-financial-report.txt) -  /confidential//2024-financial-report.txt
-* [https://www.blogofy.com/export/2024-financial-report.txt](https://www.blogofy.com/confidential/corporate-background.txt) -  /confidential/corporate-background.txt
+* [https://www.blogofy.com/export/corporate-background.txt](https://www.blogofy.com/confidential/corporate-background.txt) -  /confidential/corporate-background.txt
 * [https://www.blogofy.com/../../../etc/passwd](https://www.blogofy.com/../../../etc/passwd) - /etc/passwd
 * [https://www.blogofy.com/../../../etc/shawdow](https://www.blogofy.com/../../../etc/shawdow) -  /etc/shadow
 * [https://www.blogofy.com/../../home/raj/.profile](https://www.blogofy.com/../../home/raj/.profile) - ~/.profile
