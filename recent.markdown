@@ -4,7 +4,7 @@ title: Recent work
 permalink: /recent/
 ---
 
-* [Flagthis](https://www.flagthis.com) - Internet Security News aggregator - summarizes and sorts by importance and impact.
+* [Flagthis](https://www.flagthis.com) - Internet Security News aggregator - summarizes and sorts by importance and impact. Using Gemini APIs for parts of processing.
     * [NishMath](https://nishanth.us) - A Math focused News aggregator
     * [FlagThis AI](https://ai.flagthis.com) - An AI/ML focused News aggregator 
 * [DomainRisk](https://github.com/royans/domainrisk) - Tool for bulk anslysis: Identify 3rd party javascript library dependency across web.
