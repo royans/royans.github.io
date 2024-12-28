@@ -9,8 +9,8 @@ I've maintained a personal blog of some kind for over 20 years. I was big never 
 For completeness, I currently work for Google, but the thoughts, comments and opinions I express on this blog and other social media networks are my own. Also, I am human and learning, and from time to time I may have unintentional biases which I find and correct later. Appologies in advance and I'm open to feedback.
 
 ### Links
-* [LinkedIn](https://www.linkedin.com/in/royans/)
-* [BlueSky - Flagthis updates](https://bsky.app/profile/royans.bsky.social)
-* [Threads](https://www.threads.net/@r0yans)
-* [Instagram](https://www.instagram.com/r0yans/)
-* [Substack](https://securedevice.substack.com/)
+* [LinkedIn - Professional updates](https://www.linkedin.com/in/royans/)
+* [BlueSky - Cybersecurity updates](https://bsky.app/profile/royans.bsky.social)
+* [Threads - Personal opinion](https://www.threads.net/@r0yans)
+* [Instagram - Personal photos](https://www.instagram.com/r0yans/)
+* [Substack - Exeprimental newsletter](https://securedevice.substack.com/)
