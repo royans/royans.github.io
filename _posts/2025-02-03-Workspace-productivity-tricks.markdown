@@ -12,9 +12,9 @@ Open gemini and ask it to schedule an event. It may ask you a few questions to g
 
 <table><tr><td>
 </td>
-<img style='width:200px;' src='https://raw.githubusercontent.com/royans/royans.github.io/refs/heads/main/assets/imgs/2025_02_03/gemini_example_schedule_event.png'>
+<img style='width:400px;' src='https://raw.githubusercontent.com/royans/royans.github.io/refs/heads/main/assets/imgs/2025_02_03/gemini_example_schedule_event.png'>
 <td>
 </td>
-<img style='width:200px;' src='https://raw.githubusercontent.com/royans/royans.github.io/refs/heads/main/assets/imgs/2025_02_03/gemini_example_schedule_event_cal.png'>
+<img style='width:400px;' src='https://raw.githubusercontent.com/royans/royans.github.io/refs/heads/main/assets/imgs/2025_02_03/gemini_example_schedule_event_cal.png'>
 </tr>
 </table>
