@@ -11,15 +11,21 @@ The following post will show some of the top Google Workspace hacks which I use 
 If you want complex computation inside Google Sheets, you do not need to ask for favors from your Data Science teams. Gemini can write and execute python scripts right inside the Google Sheet.
 
 <table><tr><td>
+<a href='https://raw.githubusercontent.com/royans/royans.github.io/refs/heads/main/assets/imgs/2025_02_03/gemini_2_all.png'>
 <img style='width:500px;' src='https://raw.githubusercontent.com/royans/royans.github.io/refs/heads/main/assets/imgs/2025_02_03/gemini_2_all.png'>
+</a>
 </td>
 <td>
+<a href='https://raw.githubusercontent.com/royans/royans.github.io/refs/heads/main/assets/imgs/2025_02_03/gemini_2_python_top_cities.png'>
 <img style='width:200px;' src='https://raw.githubusercontent.com/royans/royans.github.io/refs/heads/main/assets/imgs/2025_02_03/gemini_2_python_top_cities.png'>
+</a>
 </td>
 </tr>
 <tr>
-<td>
+<td colspan=2>
+<a href='https://raw.githubusercontent.com/royans/royans.github.io/refs/heads/main/assets/imgs/2025_02_03/gemini_2_python_median_age.png'>
 <img style='width:700px;' src='https://raw.githubusercontent.com/royans/royans.github.io/refs/heads/main/assets/imgs/2025_02_03/gemini_2_python_median_age.png'>
+</a>
 </td>
 
 </tr>
