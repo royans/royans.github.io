@@ -3,6 +3,7 @@ layout: post
 title:  "Explaining Zero-Trust to a 5 year old"
 date:   2024-03-24 03:53:19 +0000
 categories: security 0trust  
+author: "Royans K Tharakan"
 ---
 While reading a CISA advisory, I realized that one of the common ransomware attack patterns involves compromising an edge network device to gain access to a private internal network. Once an attacker gets in, it gets significantly easier to compromise the remaining devices on the network. 
 

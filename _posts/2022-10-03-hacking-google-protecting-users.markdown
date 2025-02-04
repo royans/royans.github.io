@@ -3,6 +3,7 @@ layout: post
 title:  "Hacking Google: Protecting users"
 date:   2022-10-03 21:53:19 +0000
 categories: security hacking google
+author: "Royans K Tharakan"
 ---
 
 Google released a [series of Youtube videos](http://www.youtube.com/playlist?list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H) earlier today to give the public a view of the threats and challenges it faces on daily basis and how it investigates, prevents and protects its infrastructure to keep its employees, users and their data protected day after day. It shines light on its team of security experts which works round the clock to stay one step ahead of the attacks so that its users don’t have to do so.

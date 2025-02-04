@@ -3,6 +3,7 @@ layout: post
 title:  "DomainRisk: Measuring risk from 3rd party libraries"
 date:   2024-05-28 03:14:15 +0000
 categories: security supplychain
+author: "Royans K Tharakan"
 ---
 Using third-party libraries is considered a smart decision not only because its faster to develop, but also because these are generally well tested for quality and for efficiency. Additionally some developers prefer to use the libraries hosted on 3rd party CDNs (content distribution networks) which helps reduce latency in page load. 
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Google Workspace Release Channels"
 date:   2024-02-25 21:53:19 +0000
 categories: workspace releases
+author: "Royans K Tharakan"
 ---
 Most folks may not know that Workspace has two release channels. If you are an Admin, and want to see new features sooner, there is a setting you can change to see the features before most others. 
 The default setting for every workspace customer is to get features on "Scheduled release" date. However, if you switch it to "Rapid release" you will see features before others.

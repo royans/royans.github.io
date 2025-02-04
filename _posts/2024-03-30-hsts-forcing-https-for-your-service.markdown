@@ -3,6 +3,7 @@ layout: post
 title:  "HSTS: Forcing HTTPS for your service"
 date:   2024-03-30 21:53:19 +0000
 categories: hsts https encryption
+author: "Royans K Tharakan"
 ---
 
 You may have a hard time finding a non-HTTPS site today, but it was not too long ago when the default was HTTP. Sites like Facebook and Google were available without HTTPS/SSL for anyone in the network path to sniff and inject traffic into (even steal passwords and cookies). Some ISPs in particular loved to know what you were searching for, and loved even more to inject javascripts to show advertisements onto any page you were browsing. Migration towards HTTPS had started a while back and it had a significant impact in reduction of stolen credentials and as a result reduction in online abuse.
