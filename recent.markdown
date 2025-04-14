@@ -4,7 +4,8 @@ title: Recent work
 permalink: /recent/
 ---
 
-## Current
+
+### Current
 * [aProber](https://github.com/royans/aprober) - GenAI/Agentic host prober for security analyists. 
 * [Flagthis](https://www.flagthis.com) - Internet Security News aggregator - summarizes and sorts by importance and impact. Using Gemini APIs for parts of processing.
     * [DeeperML](https://deeperml.com) - An AI/ML focused News aggregator 
@@ -12,7 +13,7 @@ permalink: /recent/
 * [gbash](https://github.com/royans/gbash/) - A prototype of GenAI based linux shell - converts natural language to shell commands.
 * [mysqlc](https://github.com/royans/mysqlc) - A prototype of GenAI based MySQL client - convers natural language to SQL commands.
 
-## Archive
+### Archive
 * [DomainRisk](https://github.com/royans/domainrisk) - Tool for bulk anslysis: Identify 3rd party javascript library dependency across web.
 * [Security News Substack](https://securedevice.substack.com/) - Summarizing top Security related news using Gemini.
 * [Shopping list assistant](https://docs.google.com/spreadsheets/d/173-jcwgE4IjnOQWvbizL96IcoFhekU1Uj6dQKPoLX6M/edit) - Using Google Sheet & Gemini to smartly reorder the list.
