@@ -6,6 +6,7 @@ permalink: /recent/
 
 
 ### Current
+* [wschanges.com](https://wschanges.com) - Prototype of a compact/elegant Google Workspace Change log search tool.
 * [aProber](https://github.com/royans/aprober) - GenAI/Agentic host prober for security analyists. 
 * [Flagthis](https://www.flagthis.com) - Internet Security News aggregator - summarizes and sorts by importance and impact. Using Gemini APIs for parts of processing.
     * [DeeperML](https://deeperml.com) - An AI/ML focused News aggregator 
