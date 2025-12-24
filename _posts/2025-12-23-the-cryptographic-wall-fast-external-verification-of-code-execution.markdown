@@ -5,8 +5,6 @@ date:   2025-12-23 17:14:15 +0000
 categories: llm code execution cryptographic
 ---
 
-# The Cryptographic Wall: Fast External Deterministic Verification of LLM Code Execution
-
 ## Abstract
 
 The proliferation of agentic AI systems is fundamentally blocked from deployment in mission-critical environments by a critical security vulnerability: the inability to reliably verify code execution where users lack control over the computational stack. This trust gap renders such systems dangerously unreliable, as Large Language Models (LLMs) are prone to hallucinating outputs and fabricating execution traces that appear plausible but are disconnected from reality. Without a robust verification method, some parts of autonomous agentic systems remain confined to low-risk applications. In this post, I introduce and validate a novel solution called the "Cryptographic Wall," a method that exploits the inherent computational difficulty LLMs face in performing chaotic mathematical operations, such as the MD5 hashing algorithm. By challenging an LLM with a simple cryptographic task, a user can achieve near-instantaneous and deterministic verification of a genuine sandbox execution environment. I explore the dual-use implications of this technique, positioning it as a "Trusted Handshake" for legitimate users to establish session integrity, and as a powerful probing tool for security researchers or malicious actors to perform system reconnaissance. This work contributes a practical, high-fidelity methodology to the fields of LLM security and trusted computing, offering a crucial step toward building more reliable and verifiable AI systems.
