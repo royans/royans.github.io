@@ -28,7 +28,7 @@ One of the most immediate hurdles is the heavy manual setup required to get a tr
 
 **2. The Interaction-Security Paradox**
 Honeypot designers have long grappled with a fundamental tension between operational security and deceptive realism, leading to a segmented landscape:
-*   **Low-Interaction Systems** (e.g., *[Dionaea](https://github.com/Dionaea/dionaea)*, *[HoneyD](http://www.honeyd.org/)*) emulate specific services. They are cost-effective and safe to deploy, but their static nature makes them easy for attackers to fingerprint and bypass.
+*   **Low-Interaction Systems** (e.g., *[Dionaea](https://github.com/telekom-security/tpotce/pkgs/container/dionaea)*, *[HoneyD](http://www.honeyd.org/)*) emulate specific services. They are cost-effective and safe to deploy, but their static nature makes them easy for attackers to fingerprint and bypass.
 *   **High-Interaction Systems** provide access to a real operating system. While they offer the highest fidelity, they are resource-intensive and carry significant risks—potentially providing a pivot point for attackers to compromise actual production assets.
 *   **Medium-Interaction Systems** (e.g., *[Cowrie](https://github.com/cowrie/cowrie)*, *[Kippo](https://github.com/desaster/kippo)*) attempt to bridge this gap by simulating shell environments. However, they often fail to convince skilled adversaries due to rigid, pre-defined responses.
 
