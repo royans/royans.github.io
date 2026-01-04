@@ -5,8 +5,6 @@ date:   2026-01-04 12:14:15 +0000
 categories: security ssh honeypot ai experiment
 ---
 
-# Building FauxSSH: An AI-Assisted Honeypot Experiment
-
 I've always been fascinated by honeypots. Recently, I decided to run an experiment: **Could I build a convincing high-interaction SSH honeypot in just a few days, using Google's Antigravity and Gemini models as my coding assistants?**
 
 The result of this experiment is [FauxSSH](https://github.com/royans/fauxssh), a Python-based honeypot that uses a Generative AI model as its core engine.
