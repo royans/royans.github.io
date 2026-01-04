@@ -11,6 +11,7 @@ The result of this experiment is [FauxSSH](https://github.com/royans/fauxssh), a
 
 This project draws inspiration from my [earlier web-based honeypot experiments](https://royans.net/security/honeypot/genai/2025/12/28/Smarter-honeypots-using-GenAI-v2.html) in late 2024. The core premise is that LLMs have become so sophisticated that [distinguishing generated content from reality is increasingly difficult](https://royans.net/llm/code/execution/cryptographic/2025/12/23/the-cryptographic-wall-fast-external-verification-of-code-execution.html), making them perfect engines for high-interaction deception.
 
+
 ---
 
 ## The Core: LLM as the Engine
@@ -62,6 +63,7 @@ This is where it gets interesting. If an attacker uploads a script (say, `exploi
 Instead, I feed the script content to the LLM and ask: *"If this script were run on this machine, what would the output be?"*
 The model parses the code, understands its logic (e.g., "it tries to download a file from X and compile it"), and generates the expected terminal output. The attacker sees their script "run" and even "succeed," but no code was ever executed on the host.
 
+
 ---
 
 ## Fingerprinting the Attacker
@@ -100,6 +102,7 @@ Imitating `bash` is surprisingly hard.
 - **Variables**: I track session state so that `A=1; echo $A` actually works.
 
 Implementing these features (variables, pipes, persistence) typically takes weeks of testing to handle edge cases. However, using **coding assistants** accelerated this massively. I could simply describe the logic *"Implement a state machine that handles variable expansion for nested commands like `cpus=$( (nproc) | head -1 )`"* and the assistant would scaffold the complex parsing logic, allowing me to focus on the security architecture.
+
 
 ---
 
