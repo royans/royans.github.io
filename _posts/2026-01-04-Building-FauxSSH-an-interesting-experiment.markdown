@@ -13,7 +13,9 @@ The result of this experiment is [FauxSSH](https://github.com/royans/fauxssh), a
 
 This project draws inspiration from my [earlier web-based honeypot experiments](https://royans.net/security/honeypot/genai/2025/12/28/Smarter-honeypots-using-GenAI-v2.html) in late 2024. The core premise is that LLMs have become so sophisticated that [distinguishing generated content from reality is increasingly difficult](https://royans.net/llm/code/execution/cryptographic/2025/12/23/the-cryptographic-wall-fast-external-verification-of-code-execution.html), making them perfect engines for high-interaction deception.
 
-## 1. The Core: LLM as the Engine
+---
+
+## The Core: LLM as the Engine
 
 A key feature of FauxSSH is that it offloads the "brain" of the operating system to a Large Language Model (Google Gemini). This allows for a depth of interaction that is impossible with static scripts.
 
@@ -62,7 +64,9 @@ This is where it gets interesting. If an attacker uploads a script (say, `exploi
 Instead, I feed the script content to the LLM and ask: *"If this script were run on this machine, what would the output be?"*
 The model parses the code, understands its logic (e.g., "it tries to download a file from X and compile it"), and generates the expected terminal output. The attacker sees their script "run" and even "succeed," but no code was ever executed on the host.
 
-## 2. Fingerprinting the Attacker
+---
+
+## Fingerprinting the Attacker
 
 While the LLM handles the deception, I attempt to use signals to identify who is on the other end.
 
@@ -72,7 +76,9 @@ While the LLM handles the deception, I attempt to use signals to identify who is
 
 ![FauxSSH Dashboard showing attacker sessions and commands](/assets/imgs/2026-01-04/fauxssh-dashboard.png)
 
-## 3. A Hybrid Architecture
+---
+
+## A Hybrid Architecture
 
 Purely generative honeypots can be slow and expensive. FauxSSH is a **hybrid system**.
 - **Pre-Populated Data**: Common, high-frequency commands (`ls /`, `whoami`, `pwd`) are served from a local cache or a lightweight virtual filesystem.
@@ -80,7 +86,9 @@ Purely generative honeypots can be slow and expensive. FauxSSH is a **hybrid sys
 
 This balance keeps latency low for the attacker while maintaining the infinite depth of the AI.
 
-## 4. The Challenge of Simulating a Shell
+---
+
+## The Challenge of Simulating a Shell
 
 One challenge I faced was building a believable shell environment in Python without actually spawning a shell (which is a massive security risk).
 
@@ -95,7 +103,9 @@ Imitating `bash` is surprisingly hard.
 
 Implementing these features (variables, pipes, persistence) typically takes weeks of testing to handle edge cases. However, using **coding assistants** accelerated this massively. I could simply describe the logic *"Implement a state machine that handles variable expansion for nested commands like `cpus=$( (nproc) | head -1 )`"* and the assistant would scaffold the complex parsing logic, allowing me to focus on the security architecture.
 
-## 5. Next Steps and Future
+---
+
+## Next Steps and Future
 
 I am just getting started. The roadmap for FauxSSH includes:
 
