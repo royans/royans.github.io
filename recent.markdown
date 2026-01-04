@@ -5,7 +5,7 @@ permalink: /recent/
 ---
 
 
-### Current
+### Current/Active
 * [fauxssh](https://github.com/royans/fauxssh) - Prototype of a LLM based SSH honeypot.
 * [blogofy.com](https://blogofy.com) - Prototype of a LLM based HTTP honeypot.
 * [wschanges.com](https://wschanges.com) - Prototype of a compact/elegant Google Workspace Change log search tool.
